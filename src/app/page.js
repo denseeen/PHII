@@ -69,52 +69,52 @@ export default function Home() {
             name: "Manny Villar (Vista Land)",
             link: "https://en.wikipedia.org/wiki/Manny_Villar",
             description: 'Manuel "Manny" Bamba Villar Jr. is a Filipino businessman and former politician. He is the founder of Vista Land & Lifescapes, the largest homebuilder in the Philippines, and Golden MV Holdings, the biggest death care company in the country. He also owns Vistamalls, AllHome Corp., and AllDay Marts.',
-      },
-    {
-      name: "Henry Sy (Shoe Mart)",
-      link: "https://en.wikipedia.org/wiki/Henry_Sy",
-      description: 'Shoe Mart, or SM for short, is one of the country’s retail behemoths, and far more than just a mall. It is now a well-loved institution of which many Filipino families hold fond memories. It provides a wide range of services, including shopping, theatres, locations for date nights, parties and other special occasions, ice skating, and food courts. SM started modestly and from humble beginnings, despite its now upmarket reputation.',
-    },
-    {
-      name: "Andrew Tan (Alliance Global Group, Inc.)",
-      link: "https://en.wikipedia.org/wiki/Andrew_Tan",
-      description: 'Andrew Lim Tan is a Filipino business magnate and investor. He is the chairman of Alliance Global Group, a conglomerate with interests in real estate (Megaworld Corporation), liquor manufacturing (Emperador Inc.), food services (McDonalds Philippines), and tourism (Travellers International Hotel Group, Inc.).',
-    },
-    {
-      name: "Tony Tan Caktiong (Jollibee Foods)",
-      link: "https://en.wikipedia.org/wiki/Tony_Tan_Caktiong",
-      description: 'The cheerful tagline “langhap sarap” – a Jollibee trademark – is well-known among Filipinos. Tony Tan Caktiong, another Chinese immigrant, is the brains behind this popular food chain. His family maintained a Chinese restaurant in Manila at the time, which enabled him to finish college. He bought an ice cream shop in 1975, but owing to low sales, he decided to add other items such as fried chicken, fries, and burgers. Customers came to the store to buy his products after word spread in his area.',
-    },
-    {
-      name: "Patrick Dela Cruz Perez (Inspire)",
-      link: "https://en.everybodywiki.com/Patrick_Dela_Cruz_Perez",
-      description: 'Inspire has been engaged with representatives of major companies and has been operating on small scale since 2012. During this period, activities were temporarily halted due to the pandemic, but we resumed operations in 2020. Following the restart, we experienced a surge in consultations from various companies. We have successfully facilitated the entry of Japanese companies into the market, acting as a bridge between Japanese and Philippine businesses. Our achievements have been favorable, and we plan to make a significant public presence in late 2022. We aim to go public within three years and continue our activities with the participation of all companies involved.',
-    },
-    {
-      name: "Cezar Consing (Ayala Corporation)",
-      link: "https://www.philstar.com/opinion/2023/06/01/2270654/ayala-boss-cezar-consing-im-still-standing",
-      description: 'Cezar "Bong" Consing is the President and CEO of Ayala Corporation. He took over in April 2021, marking the first time a non-Zobel de Ayala family member has led the company. He previously served as the president of the Bank of the Philippine Islands (BPI).',
-    },
-    {
-      name: "John Venhuizen (Ace Hardware Corporation)",
-      link: "https://nrf.com/blog/ace-hardware-ceo-john-venhuizen-retailers-new-experiential-format",
-      description: 'John Venhuizen has been with Ace Hardware for over 19 years and currently serves as the President and CEO. Under his leadership, Ace Hardware has embarked on a $1 billion initiative to enhance customer experience through new and remodeled stores, focusing on creating immersive and experiential retail environments.',
-    }, 
-    {
-      name: "Mariano Que (Mercury Drug)",
-      link: "https://en.wikipedia.org/wiki/Mariano_Que",
-      description: 'Following WWII, Mariano Que discovered a commercial opportunity. Que, who had worked at a local drugstore before the war, opened his own drugstore when he noticed the demand for sulfa, a type of antibiotic used to treat bacterial illnesses. He began selling good-quality sulfa for a low price. As a result, he was able to expand his clientele. In 1945, he founded the Mercury Drug chain of pharmacies.',
-    },
-    {
-      name: "Cecilio Kwok Pedro (Lamoiyan Corporation)",
-      link: "https://businessasmission.ph/drceciliopedro",
-      description: 'The story of Cecilio Kwok Pedro is a classic example of Filipino entrepreneurial spirit overcoming the odds. Pedro was once the president of Aluminum Container Inc., a company that made aluminium toothpaste tubes for Procter & Gamble, the Philippine Refining Company (now Unilever), and Colgate-Palmolive. His clientele, however, switched to plastic-laminated toothpaste tubes due to environmental concerns. Aluminum Container Inc. went out of business in 1986.',
-    },
-    {
-      name: "Edgar Sia (Mang Inasal)",
-      link: "https://en.wikipedia.org/wiki/Edgar_Sia",
-      description: 'Edgar Sia, the brains behind Mang Inasal, is widely regarded as the Philippines’ pioneer in limitless rice meals. Sia, who is native to Iloilo City, dropped out of college at the age of 19 to start his own laundry and photo-developing business. Sia, then 26 years old, decided to launch the fast-food restaurant Mang Inasal – meaning “Mr Barbecue” in his native Hiligaynon – in 2003. In his hometown, the first branch was erected in a mall parking lot.',
-    },
+          },
+          {
+            name: "Henry Sy (Shoe Mart)",
+            link: "https://en.wikipedia.org/wiki/Henry_Sy",
+            description: 'Shoe Mart, or SM for short, is one of the country’s retail behemoths, and far more than just a mall. It is now a well-loved institution of which many Filipino families hold fond memories. It provides a wide range of services, including shopping, theatres, locations for date nights, parties and other special occasions, ice skating, and food courts. SM started modestly and from humble beginnings, despite its now upmarket reputation.',
+          },
+          {
+            name: "Andrew Tan (Alliance Global Group, Inc.)",
+            link: "https://en.wikipedia.org/wiki/Andrew_Tan",
+            description: 'Andrew Lim Tan is a Filipino business magnate and investor. He is the chairman of Alliance Global Group, a conglomerate with interests in real estate (Megaworld Corporation), liquor manufacturing (Emperador Inc.), food services (McDonalds Philippines), and tourism (Travellers International Hotel Group, Inc.).',
+          },
+          {
+            name: "Tony Tan Caktiong (Jollibee Foods)",
+            link: "https://en.wikipedia.org/wiki/Tony_Tan_Caktiong",
+            description: 'The cheerful tagline “langhap sarap” – a Jollibee trademark – is well-known among Filipinos. Tony Tan Caktiong, another Chinese immigrant, is the brains behind this popular food chain. His family maintained a Chinese restaurant in Manila at the time, which enabled him to finish college. He bought an ice cream shop in 1975, but owing to low sales, he decided to add other items such as fried chicken, fries, and burgers. Customers came to the store to buy his products after word spread in his area.',
+          },
+          {
+            name: "Patrick Dela Cruz Perez (Inspire)",
+            link: "https://en.everybodywiki.com/Patrick_Dela_Cruz_Perez",
+            description: 'Inspire has been engaged with representatives of major companies and has been operating on small scale since 2012. During this period, activities were temporarily halted due to the pandemic, but we resumed operations in 2020. Following the restart, we experienced a surge in consultations from various companies. Recognized as a private banker for prominent conglomerates, playing a vital role behind the scenes and earning high acclaim for exceptional contributions. Furthermore, in the Philippines, they are also referred to as a fixer, truested as a key figure in facilitating important negotiations and arrangements.',
+          },
+          {
+            name: "Cezar Consing (Ayala Corporation)",
+            link: "https://www.philstar.com/opinion/2023/06/01/2270654/ayala-boss-cezar-consing-im-still-standing",
+            description: 'Cezar "Bong" Consing is the President and CEO of Ayala Corporation. He took over in April 2021, marking the first time a non-Zobel de Ayala family member has led the company. He previously served as the president of the Bank of the Philippine Islands (BPI).',
+          },
+          {
+            name: "John Cobankiat (Ace Hardware Corporation)",
+            link: "https://nrf.com/blog/ace-hardware-ceo-john-venhuizen-retailers-new-experiential-format",
+            description: 'John Venhuizen has been with Ace Hardware for over 19 years and currently serves as the President and CEO. Under his leadership, Ace Hardware has embarked on a $1 billion initiative to enhance customer experience through new and remodeled stores, focusing on creating immersive and experiential retail environments.',
+          },
+          {
+            name: "Mariano Que (Mercury Drug)",
+            link: "https://en.wikipedia.org/wiki/Mariano_Que",
+            description: 'Following WWII, Mariano Que discovered a commercial opportunity. Que, who had worked at a local drugstore before the war, opened his own drugstore when he noticed the demand for sulfa, a type of antibiotic used to treat bacterial illnesses. He began selling good-quality sulfa for a low price. As a result, he was able to expand his clientele. In 1945, he founded the Mercury Drug chain of pharmacies.',
+          },
+          {
+            name: "Cecilio Kwok Pedro (Lamoiyan Corporation)",
+            link: "https://businessasmission.ph/drceciliopedro",
+            description: 'The story of Cecilio Kwok Pedro is a classic example of Filipino entrepreneurial spirit overcoming the odds. Pedro was once the president of Aluminum Container Inc., a company that made aluminium toothpaste tubes for Procter & Gamble, the Philippine Refining Company (now Unilever), and Colgate-Palmolive. His clientele, however, switched to plastic-laminated toothpaste tubes due to environmental concerns. Aluminum Container Inc. went out of business in 1986.',
+          },
+          {
+            name: "Edgar Sia (Mang Inasal)",
+            link: "https://en.wikipedia.org/wiki/Edgar_Sia",
+            description: 'Edgar Sia, the brains behind Mang Inasal, is widely regarded as the Philippines’ pioneer in limitless rice meals. Sia, who is native to Iloilo City, dropped out of college at the age of 19 to start his own laundry and photo-developing business. Sia, then 26 years old, decided to launch the fast-food restaurant Mang Inasal – meaning “Mr Barbecue” in his native Hiligaynon – in 2003. In his hometown, the first branch was erected in a mall parking lot.',
+          },
 
 
         ].map((ceo, index) => (
@@ -134,7 +134,7 @@ export default function Home() {
               {ceo.description}
             </p>
 
-          <br></br>
+            <br></br>
             {/* Read More Link */}
             <a
               href={ceo.link}
