@@ -22,10 +22,10 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
-    <Head>
+    <head>
         
         <link rel="icon" type="image/jpeg" href="/images/logoPHII.jpg" />
-      </Head>
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-r from-[#fefffe] to-[#ffffff]`}>
         
         {/* Navigation Bar */}
