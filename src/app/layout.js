@@ -22,9 +22,10 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
-    <head>
-        
-        <link rel="icon" type="image/jpeg" href="/images/logoPHII.jpg" />
+
+      <head>
+        <link rel="icon" type="image/jpeg" href="/images/logoPHI.jpg" />
+
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-r from-[#fefffe] to-[#ffffff]`}>
         
