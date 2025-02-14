@@ -22,13 +22,8 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
-
-      <head>
-        <link rel="icon" type="image/jpeg" href="/images/logoPHI.jpg" />
-
-      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-r from-[#fefffe] to-[#ffffff]`}>
-        
+
         {/* Navigation Bar */}
         <nav className="bg-white p-4 shadow-md w-full fixed top-0 z-50 h-16">
           <div className="max-w-7xl mx-auto flex items-center justify-between">
@@ -36,7 +31,7 @@ export default function RootLayout({ children }) {
             {/* Logo & Title */}
             <div className="flex items-center text-black text-lg md:text-2xl font-semibold font-serif">
               <img
-                src="/images/logoPHI.jpg"
+                src="/images/logoPHII.jpg"
                 alt="Logo"
                 className="w-10 h-10 object-contain"
               />
